@@ -1,6 +1,5 @@
 🎯 GK QUIZ CHALLENGE 🧠⏱️
-
-Test your general knowledge under a 20-minute countdown timer!
+~Test your general knowledge under a 20-minute countdown timer!
 
 ## 🔹 Project Description
 GK Quiz Challenge is an interactive web application built using "HTML, CSS, and JavaScript".  

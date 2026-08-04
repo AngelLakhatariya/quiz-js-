@@ -9,7 +9,7 @@ It features **10 General Knowledge questions** accompanied by an active "20-minu
 Users can answer the questions and submit manually via the "Submit button", or the quiz will "automatically submit" when the timer runs out. Once submitted, the application 
 calculates the total score, displays the final result, and disables all radio inputs to prevent further changes.
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🔹 Key Features
 - 10 Multiple-Choice Questions (MCQs)
@@ -19,7 +19,7 @@ calculates the total score, displays the final result, and disables all radio in
 - Post-submission input locking (Anti-cheat)
 - Clean, modern dark-mode responsive UI
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🔹 How This Project is Built
 - **HTML5**: Used for structuring the quiz container, form controls, and individual question sets.
@@ -30,19 +30,19 @@ calculates the total score, displays the final result, and disables all radio in
   - Used DOM iteration to verify selected radio buttons against the correct answers and tally the user's score.
   - Dynamically disabled all input fields and updated the UI elements upon form submission.
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🔹 Technologies Used
 - HTML5
 - CSS3
 - JavaScript (ES6)
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🔹 Project Explanation Video
 👉 **Explanation Video:**  
 *(Add your video link here)*
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ⭐ Thank You!

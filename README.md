@@ -41,7 +41,7 @@ calculates the total score, displays the final result, and disables all radio in
 
 ## 🔹 Project Explanation Video
 👉 **Explanation Video:**  
-*(Add your video link here)*
+*(https://drive.google.com/file/d/1Rz6NLvi0ZrBUr95lhiM46ibqAfkBT3Pk/view?usp=drive_link)*
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
